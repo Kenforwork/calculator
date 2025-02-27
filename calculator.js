@@ -79,4 +79,5 @@
   } else {
     createCalculatorWidget();
   }
+  console.log("hihi");
 })();
